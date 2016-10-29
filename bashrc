@@ -62,7 +62,7 @@ export LESS_TERMCAP_ue=$'\e[0m'				# end underline
 
 # shell colors cheatsheet
 
-# 			norm	bright
+#			norm	bright
 # black 	0;30	1;30
 # red		0;31	1;31
 # green		0;32	1;32
